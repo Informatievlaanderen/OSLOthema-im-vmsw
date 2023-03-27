@@ -33,6 +33,7 @@
        }
     },
     "VmswWoning": "https://vmsw.vlaanderen.be/ns/vmsw#VmswWoning",
+    "VmswWoningResource": "https://vmsw.vlaanderen.be/ns/vmsw#VmswWoning",
     "adres": {
       "@id": "https://vmsw.vlaanderen.be/ns/vmsw#adres",
       "@type": "@id"
