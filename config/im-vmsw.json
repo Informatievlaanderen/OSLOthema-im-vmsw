@@ -2,7 +2,7 @@
 {
   "name": "im-vmsw",
   "type": "ap",
-  "eap": "VMSW.eapx",
+  "eap": "VMSW.eap",
   "diagram": "VMSW-ImplementatieModel",
   "template": "vmsw.j2",
   "title": "ImplementatieModel VMSW",
