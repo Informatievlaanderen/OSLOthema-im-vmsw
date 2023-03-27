@@ -3,7 +3,7 @@
   "name": "im-vmsw",
   "type": "ap",
   "eap": "VMSW.eap",
-  "diagram": "VMSW-ImplementatieModel",
+  "diagram": "VMSW-Implementatiemodel",
   "template": "vmsw.j2",
   "title": "ImplementatieModel VMSW",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
