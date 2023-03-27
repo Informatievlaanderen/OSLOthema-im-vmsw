@@ -1,0 +1,33 @@
+{
+  "@context": "",
+  "@id": "https://cwr.vmsw.vonet.be/api/v1/woonmaatschappijen/org1/woningen/13213id",
+  "@type": "VmswWoningResource",
+  "organisatieId": "0403795657",
+  "vmswWoningId": "13213id",
+  "gebouweenheidId": "https://data.vlaanderen.be/id/gebouweenheid/23213243",
+  "adres": {
+    "busnummer": "201A",
+    "gemeenteNISCode": "110203",
+    "gemeentenaam": {
+      "spelling": "Wiekevorst",
+      "taal": "nl"
+    },
+    "huisnummer": "67C",
+    "postcode": "6742",
+    "straatnaam": {
+      "spelling": "kerkstraat",
+      "taal": "nl"
+    }
+  },
+  "statistischeSector": "stat1",
+  "wijk": "wijk1",
+  "woningType": "Appartement",
+  "woonmaatschappijWoningId": "O02034#22",
+  "woonmaatschappijWoningCode": "29 06 00 00 00 27",
+  "woonmaatschappijWoningGroepCode": "ZJV-JVB-V",
+  "bouwjaar": "1988",
+  "bebouwingsType": "Appartement hoek dak",
+  "eigendom": "Niet-Eigen",
+  "typeEigendom": "OCMW",
+  "woningStatus": "In beheer"
+}
