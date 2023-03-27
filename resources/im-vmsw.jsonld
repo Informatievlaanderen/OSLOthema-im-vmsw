@@ -1,5 +1,7 @@
 {
   "@context": {
+    "@base": "https://vmsw.vlaanderen.be/ns/vmsw",
+    "@vocab" : "#",
     "Adresvoorstelling": "http://www.w3.org/ns/locn#Address",
     "VmswAdres": "http://www.w3.org/ns/locn#Address",
     "busnummer": {
