@@ -1,0 +1,18 @@
+[
+{
+  "name": "voc-vmsw",
+  "type": "voc",
+  "eap": "VMSW.eap",
+  "diagram": "VMSW-Implementatiemodel",
+  "template": "vmsw.j2",
+  "title": "Ondersteunend Vocabularium VMSW",
+  "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+  "publication-date": "2023-03-27",
+  "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
+  "contributors-file": "stakeholders.csv",
+  "contributors-column": "VMSW",
+  "site": "site-skeleton/vmsw",
+  "feedbackurl": "",
+  "standaardregisterurl": ""
+}
+]
