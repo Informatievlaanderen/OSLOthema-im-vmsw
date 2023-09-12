@@ -4,7 +4,7 @@
   "type": "voc",
   "eap": "VMSW.eap",
   "diagram": "VMSW-Implementatiemodel",
-  "template": "vmsw.j2",
+  "template": "voc-vmsw.j2",
   "title": "Ondersteunend Vocabularium VMSW",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
   "publication-date": "2023-03-27",
